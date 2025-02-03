@@ -90,6 +90,8 @@ def update_map(selected_year):
 def update_trend(clickData, selected_year):
     return update_line_chart(clickData, selected_year)
 
-# Run the app
 if __name__ == "__main__":
     app.run_server(debug=True, port=8050)
+
+# Expose the Dash server for Gunicorn
+server = app.server
