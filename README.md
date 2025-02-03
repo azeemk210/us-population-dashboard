@@ -53,9 +53,6 @@ us-population-dashboard/
 - Deploy the app online using Heroku or GitHub Pages.
 - Improve the UI with additional styling.
 
-## License
-This project is licensed under the **MIT License**.
-
 ---
 Feel free to **contribute**, **suggest improvements**, or **report issues**! 🚀
 
